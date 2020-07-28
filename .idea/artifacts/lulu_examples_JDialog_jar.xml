@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="lulu_examples_JDialog:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/lulu_examples_JDialog_jar</output-path>
+    <root id="archive" name="lulu_examples_JDialog.jar">
+      <element id="module-output" name="lulu_examples_JDialog" />
+    </root>
+  </artifact>
+</component>
